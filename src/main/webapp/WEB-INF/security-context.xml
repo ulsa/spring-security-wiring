@@ -18,6 +18,5 @@
     <authentication-manager>
         <authentication-provider ref="authenticationProvider"/>
     </authentication-manager>
-    <beans:bean id="authenticationProvider" class="com.jayway.myapp.security.MyappAuthenticationProvider"/>
 
 </beans:beans>

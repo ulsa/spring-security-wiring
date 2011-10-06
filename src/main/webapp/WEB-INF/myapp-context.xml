@@ -10,6 +10,4 @@
 
     <context:component-scan base-package="com.jayway.myapp"/>
 
-    <bean id="service" class="com.jayway.myapp.service.MyServiceImpl"/>
-
 </beans>
